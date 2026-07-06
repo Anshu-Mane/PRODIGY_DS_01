@@ -12,7 +12,6 @@ Create a bar chart and histogram to visualize the distribution of categorical an
 Dataset Used: Titanic Dataset
 
 Dataset Source:
-Paste the dataset link here:
 https://github.com/datasciencedojo/datasets/blob/master/titanic.csv
 
 ---
